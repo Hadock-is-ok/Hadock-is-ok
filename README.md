@@ -5,7 +5,7 @@ I’m currently working on nothing, so reach out to me if you have an idea!
 - Ask me about something I made, and I'll try my best to help!
 
 ### Hopes and Dreams
-I hope to work in a tech related environment, I would love to have a job in Web Development, Software Development, IT, SysAdmin and Data Science just to name a few.
+I hope to work in a tech related environment, I would love to have a job in Web Development, Software Development, IT, SysAdmin or Data Science just to name a few.
 
 I also want to make my own Home Infrastructure, It would be so fun to set up and use daily.
 
