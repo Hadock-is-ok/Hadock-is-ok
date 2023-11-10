@@ -7,7 +7,7 @@ I’m currently working on nothing, so reach out to me if you have an idea!
 ### Hopes and Dreams
 I hope to work in a tech related environment, I would love to have a job in Web Development, Software Development, IT, SysAdmin and Data Science just to name a few.
 
-I also want to make my own Home Infrastructure, It would be so fun to set up and use daily.
+I also want to make my own Home Infrastructure; It would be so fun to set up and use daily.
 
 ### My work experience
 I have previously worked on a few projects, most notably my bot and website. It was fun learning to do different things and understanding how it works.
