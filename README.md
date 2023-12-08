@@ -5,9 +5,9 @@ I’m currently working on a few projects, some with friends, some alone.
 - Ask me about something I made, and I'll try my best to help!
 
 ### Hopes and Dreams
-I hope to work in a tech related environment, I would love to have a job in Web Development, Software Development, IT, SysAdmin and Data Science just to name a few.
+I hope to work in a tech related environment, I would love to have a job in Web Development, Software Development, IT, SysAdmin and Data Science, just to name a few areas.
 
-I also want to make my own Home Infrastructure; It would be so fun to set up and use daily.
+I also want to make my own Home Infrastructure; It would be so fun to set up to my liking.
 
 ### My work experience
 I have previously worked on a few projects, most notably my bot and website. It was fun learning to do different things and understanding how it works.
