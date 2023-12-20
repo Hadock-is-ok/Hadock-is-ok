@@ -19,9 +19,11 @@ You can reach out to me by going to my [website](https://hadock.tech/contact.htm
 <p>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="Visual Studio Code logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python Logo" width="50" height="50"/>
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/rust.svg" alt="Rust Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/html5.svg" alt="HTML Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/css3.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://regexr.com/assets/icons/favicon.ico" alt="Regex Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/git.svg" alt="Git Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/ubuntu.svg" alt="Ubuntu Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/debian.svg" alt="Debian Logo" width="50" height="50"/>
