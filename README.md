@@ -1,7 +1,6 @@
 # Hi, I'm Hadock.
 
-I’m currently working on a few projects, some with friends, some alone.
-- I’m currently improving my code, so I'm not learning a specific topic.
+- I’m currently learning the basics of Rust!
 - Ask me about something I made, and I'll try my best to help!
 
 ### Hopes and Dreams
