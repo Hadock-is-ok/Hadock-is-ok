@@ -13,7 +13,7 @@ I have previously worked on a few projects, most notably my bot and website. It 
 I've also worked on a few other projects off-git with some friends.
 
 ### How do I reach out to you?
-You can reach out to me by going to my [website](https://hadock.tech/contact.html). There's various ways to contact me, you can also open an issue in any of my personal repos as that will show up in my email.
+Contact me using the email in my commits.
 
 ## My programming roadtrip
 <p>
