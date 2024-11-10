@@ -1,6 +1,6 @@
 # Hi, I'm Hadock.
 
-- I’m currently learning the basics of Rust!
+- I’m currently learning the basics of Zig!
 - Ask me about something I made, and I'll try my best to help!
 
 ### Hopes and Dreams
@@ -27,4 +27,5 @@ Contact me using the email in my commits.
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/git.svg" alt="Git Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/ubuntu.svg" alt="Ubuntu Logo" width="50" height="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/debian.svg" alt="Debian Logo" width="50" height="50"/>
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/arch_linux.svg" alt="Arch Logo" width="50" height="50"/>
 </p>
