@@ -1,6 +1,6 @@
 # Hi, I'm Hadock.
 
-- I’m currently learning the basics of Zig!
+- I’m currently learning the basics of C!
 - Ask me about something I made, and I'll try my best to help!
 
 ### Hopes and Dreams
